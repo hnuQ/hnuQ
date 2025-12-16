@@ -13,3 +13,7 @@ __pycache__
 *.so
 *.dylib
 .DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
